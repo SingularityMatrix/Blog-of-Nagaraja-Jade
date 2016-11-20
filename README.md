@@ -1,3 +1,3 @@
-# Blog-of-Nagaraja-Jade
+# SingularityMatrix
 
-Blog of Nagaraja Jade a.k.a SingularityMatrix.  My essays on programming (mostly functional), software design, research and life.
+My essays on Programming (mostly functional), Software Design and Life.
