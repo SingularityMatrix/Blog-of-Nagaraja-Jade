@@ -1,3 +1,3 @@
 # SingularityMatrix
 
-My essays on Programming (mostly functional), Software Design and Life.
+## My essays on Programming (mostly functional), Software Design and Life.
