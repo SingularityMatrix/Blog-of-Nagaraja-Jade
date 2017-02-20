@@ -1,7 +1,7 @@
 {
     "plugins": [
         "theme-faq",
-        "search"
+        "search",
         "katex",
         "mathjax"
     ],
