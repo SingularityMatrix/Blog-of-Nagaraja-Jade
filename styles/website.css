@@ -1,5 +1,9 @@
 /* CSS for website */
 
-.gitbook-link {
+.faq-page-footer {
+    display: none !important;
+}
+
+.navbar-header {
     display: none !important;
 }
