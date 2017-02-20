@@ -1,5 +1,7 @@
 {
     "plugins": [
+        "theme-faq",
+        "search"
         "katex",
         "mathjax"
     ],
