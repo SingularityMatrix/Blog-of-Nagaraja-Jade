@@ -1,4 +1,4 @@
-# Singular Matrix
+# Blog of Nagaraja Jade
 
 ## Essays on Distributed Systems and Programming.
 
